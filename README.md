@@ -210,6 +210,32 @@ The collection will also change over time as I find new resource packs, discover
 
 ---
 
+# ✏️ Edit & Customize
+
+**Feel free to edit and customize this collection for your own use!** 🎉
+
+You can:
+
+* 🎨 Change textures
+* 🧊 Modify 3D models
+* 🔥 Customize animations
+* 🌙 Change the UI
+* 🛠️ Add your own resource-pack features
+* 🧩 Remove features you don't want
+* ✨ Experiment and create your own version
+
+If you make your own version, you are welcome to customize it to fit your preferences.
+
+### ⚠️ A small note about included packs
+
+Some features in this collection originate from other creators.
+
+While you are free to **edit and customize the collection**, please respect the original creator's license and redistribution rules for any third-party resource pack or asset included here.
+
+If a particular creator does not allow redistribution or modification, their original license takes priority.
+
+---
+
 # 💡 Inspiration & Credits
 
 This collection is **not made entirely from scratch**.
