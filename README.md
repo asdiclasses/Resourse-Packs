@@ -172,7 +172,7 @@ The goal is to make boss fights feel a little more special while keeping the ori
 
 ---
 
-# 🚧 Experimental — Animated Minecraft Logo
+# 🚧 Experimental — Animated Minecraft Logo by help from Vexcenot YT and WIND_XD
 
 One of the ideas I'm currently experimenting with is an **animated Minecraft logo/title screen**.
 
