@@ -47,8 +47,8 @@ The collection contains several animated features and visual effects.
 ### Current animated features include:
 
 * 💎 **Animated 3D End Crystal**
-* 🔥 **Animated Soul Campfire**
-* 🔥 **Animated Normal Campfire**
+* 🔥 **Animated Soul Campfire (Now 3D !)**
+* 🔥 **Animated Normal Campfire (Now 3D !)**
 * ⭐ **Twinkling Stars**
 * 🟪 **Beacon Fog**
 * ✨ Other animated textures and effects
@@ -86,6 +86,14 @@ That's it.
 This feature removes the annoying visual blur that normally appears when wearing a carved pumpkin.
 
 You can also disable this feature separately if you prefer the normal Minecraft effect.
+
+Simply disable:
+
+```text
+No Pumpkin Blur.zip
+```
+
+That's it.
 
 ---
 
@@ -172,7 +180,7 @@ The goal is to make boss fights feel a little more special while keeping the ori
 
 ---
 
-# 🚧 Experimental — Animated Minecraft Logo by help from Vexcenot YT and WIND_XD
+# 🚧 Experimental — Animated Minecraft Logo by help from Vexcenot YT and WIND_XD (Will Take longer time than expected)
 
 One of the ideas I'm currently experimenting with is an **animated Minecraft logo/title screen**.
 
@@ -194,7 +202,7 @@ The idea is to find a way to create an animation for the Minecraft logo while ke
 
 The exact technique hasn't been figured out yet.
 
-🛠️ **Status: Experimental / Research**
+🛠️ **Status: Experimental / Research and on work**
 
 This is one of the more interesting experiments in this collection, and if I find a way to make it work, it could become a unique feature of the pack.
 
