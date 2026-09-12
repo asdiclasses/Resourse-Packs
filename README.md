@@ -220,7 +220,7 @@ The collection will also change over time as I find new resource packs, discover
 
 # ✏️ Edit & Customize
 
-**Feel free to edit and customize this collection for your own use!** 🎉
+**Feel free to edit and customize this collection for your own use! Credit is not Specially Required but considering it is a good idea** 🎉
 
 You can:
 
